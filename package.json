@@ -19,12 +19,12 @@
     "@angular/platform-browser": "~11.2.14",
     "@angular/platform-browser-dynamic": "~11.2.14",
     "@angular/router": "~11.2.14",
-    "@okta/okta-angular": "^4.1.0",
-    "@okta/okta-auth-js": "^5.5.0",
-    "@okta/okta-signin-widget": "^5.11.1",
-    "rxjs": "6.6.0",
+    "@okta/okta-angular": "^5.0.0",
+    "@okta/okta-auth-js": "^5.9.1",
+    "@okta/okta-signin-widget": "^5.14.1",
+    "rxjs": "^6.5.3",
     "semantic-ui-css": "^2.4.1",
-    "tslib": "^2.0.0",
+    "tslib": "^2.3.1",
     "zone.js": "~0.11.3"
   },
   "devDependencies": {
