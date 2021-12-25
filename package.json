@@ -10,7 +10,6 @@
     "lint": "ng lint"
   },
   "private": true,
-  "engines": { "node": "14.x" },
   "dependencies": {
     "@angular/animations": "~11.2.14",
     "@angular/common": "~11.2.14",
