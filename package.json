@@ -2,6 +2,9 @@
   "name": "custom-login",
   "version": "0.0.0",
   "license": "MIT",
+  "engines": {
+    "node": "17.x"
+  },
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
